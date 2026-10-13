@@ -2,6 +2,10 @@
 
 > AI-assisted. Verify specifics before official use.
 
+
+<img width="597" height="684" alt="image" src="https://github.com/user-attachments/assets/13f023c4-9b45-4593-967b-b812ea811fd5" />
+
+
 **Get a ready-to-use Altium part from an LCSC / JLCPCB number in seconds.** Type a number such as `C2040` and the importer:
 
 - downloads the part from EasyEDA (the free CAD library behind LCSC and JLCPCB);
