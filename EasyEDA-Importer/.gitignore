@@ -1,0 +1,13 @@
+# Created when the importer runs - personal to each user, do not commit
+Libraries/
+EasyEDA_Importer.settings.txt
+
+# Altium / OS / Python leftovers
+__Previews/
+History/
+*.SchDocPreview
+*.PcbDocPreview
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
